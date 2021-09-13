@@ -41,7 +41,8 @@ body {
 
 }
 .socila_media a:hover{
-  color: #FC6C85;
+  /* color: #FC6C85; */
+    color: #6675ff;
   transform: scale(1.5);
 }
 
@@ -62,6 +63,13 @@ body {
 /* @media(max-width:600px) { */
 .linking p{
   font-size: 20px;
+}
+
+.linking p:hover{
+  /* font-size: 20px; */
+  /* color: #FC6C85; */
+  color: #6675ff;
+  transform: scale(1.25);
 }
 /* } */
 .external_links a {
@@ -110,7 +118,8 @@ body {
 }
 
 .book {
-  background: #FC6C85;
+  /* background: #FC6C85; */
+  background: #6675ff;
 }
 
 .book:hover {
